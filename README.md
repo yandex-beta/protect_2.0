@@ -19,5 +19,3 @@ Edge - edge://settings/passwords
 
 [Firefox](https://support.mozilla.org/ru/kb/eksport-registracionnyh-dannyh-iz-firefox)
 ##
-
-##
