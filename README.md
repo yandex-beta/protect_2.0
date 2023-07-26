@@ -11,9 +11,9 @@ Protect 2.0 - это ревалюционная технология защит�
 ### В этом вам помогут официальные документации браузеров и ссылки ниже
 Несколько ссылок для различных браузеров:
 [Яндекс Браузер](https://browser.yandex.ru/help/security/passwords-export.html)
-[Chrome](chrome://password-manager/settings)
-[Edge](https://pages.github.com/)
-[Firefox](https://pages.github.com/)
+Chrome - chrome://password-manager/settings
+Edge - edge://settings/passwords
+[Firefox]([https://pages.github.com/](https://support.mozilla.org/ru/kb/eksport-registracionnyh-dannyh-iz-firefox#)https://support.mozilla.org/ru/kb/eksport-registracionnyh-dannyh-iz-firefox#)
 ##
 
 ##
