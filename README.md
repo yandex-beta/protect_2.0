@@ -13,7 +13,7 @@ Protect 2.0 - это ревалюционная технология защит�
 [Яндекс Браузер](https://browser.yandex.ru/help/security/passwords-export.html)
 Chrome - chrome://password-manager/settings
 Edge - edge://settings/passwords
-[Firefox]([https://pages.github.com/](https://support.mozilla.org/ru/kb/eksport-registracionnyh-dannyh-iz-firefox#)https://support.mozilla.org/ru/kb/eksport-registracionnyh-dannyh-iz-firefox#)
+[Firefox]([https://pages.github.com/](https://support.mozilla.org/ru/kb/eksport-registracionnyh-dannyh-iz-firefox#)
 ##
 
 ##
